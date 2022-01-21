@@ -173,6 +173,7 @@ div.vertical_line{
 .main_product_list > div{
     max-width: 308.09px;
     height: 556px; 
+    margin-right: 43px;
 }
 .main_product_list > div h5{
     font-size: 10px;
