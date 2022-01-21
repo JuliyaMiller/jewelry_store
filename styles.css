@@ -137,6 +137,7 @@ div.vertical_line{
 } 
 /****** main_product ***********/
 .main_product{
+    width: 1440px;
     margin-left: 42.03px;
     margin-right: 42px;
 }
@@ -145,7 +146,7 @@ div.vertical_line{
     flex-wrap: nowrap;
     justify-content: space-between;
     flex-grow: 1;
-    padding-right: 38px;
+    padding-right: 80px;
     margin-bottom: 34px;
 }
 .main_product_select > div button{
