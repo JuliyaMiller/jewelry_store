@@ -6,6 +6,7 @@
 .body{
     max-width: 1440px;
     margin: 0 auto;
+    position: relative;
 }
 h1{
     font-family: 'Open Sans', sans-serif;
@@ -136,7 +137,7 @@ div.vertical_line{
 } 
 /****** main_product ***********/
 .main_product{
-    width: 100%;
+    max-width: 1440px;
     margin-left: 42.03px;
     margin-right: 42px;
 }
@@ -198,6 +199,9 @@ div.vertical_line{
 .post_group_img{
     text-align: center;
     margin-bottom: 22px;
+}
+.post_group_img > img{
+   border: solid 1px #FFFFFF;
 }
 .post_group_img > img:hover{
     border: solid 1px #000000;
