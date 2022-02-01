@@ -1,4 +1,4 @@
-# test_box
+# jewelry store
 
 html/css
 
