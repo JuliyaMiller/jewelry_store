@@ -2,4 +2,4 @@
 
 html/css
 
-DEMO: https://juliyamiller.github.io/test_box/
+DEMO: https://juliyamiller.github.io/jewelry_store/
